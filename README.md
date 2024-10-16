@@ -28,6 +28,6 @@ The EMG signals were recorded at a 1 kHz sampling frequency in both raw and filt
 ## Contact
 
 If you would like more information about this project, feel free to contact me at:  
-**Email**: [bouchrasael43@gmail.com](mailto:bouchrasael43@gmail.com)
+**Email**: [bouchrasahel43@gmail.com](mailto:bouchrasahel43@gmail.com)
 
 

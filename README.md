@@ -23,6 +23,13 @@ The EMG signals were recorded at a 1 kHz sampling frequency in both raw and filt
 
 <img width="305" alt="image" src="https://github.com/user-attachments/assets/1df18d11-fcbe-4a79-893f-0de051efd598">
 
+## Authors ✨
+
+- **Tasnime Amrani Nejjar**  
+- **Bouchra Sahel**
+
+## Acknowledgments 💐  
+We would like to express our gratitude to **Dr. Badr El Kari** for his invaluable guidance and support throughout this project.  
 
 
 ## Contact

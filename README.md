@@ -19,7 +19,7 @@ The EMG recording session for each participant lasted 250 seconds and consisted 
 
 ## Preprocess the EMG signals
 
-The EMG signals were recorded at a 1 kHz sampling frequency in both raw and filtered formats. We conducted a Fourier Transform (FFT) analysis to identify the dominant frequency components of the signal, which allowed us to determine the appropriate cutoff frequencies for filtering. A 4thorder Butterworth bandpass filter with cutoff frequencies of 20 Hz and 450 Hz was designed and applied to eliminate unwanted frequencies and reduce noise, ensuring that only the frequencies of interest were retained
+The EMG signals were recorded at a 1 kHz sampling frequency in both raw and filtered formats. We conducted a Fourier Transform (FFT) analysis to identify the dominant frequency components of the signal, which allowed us to determine the appropriate cutoff frequencies for filtering. A 4thorder Butterworth bandpass filter with cutoff frequencies of 20 Hz and 450 Hz was designed and applied to eliminate unwanted frequencies and reduce noise, ensuring that only the frequencies of interest were retained.
 
 <img width="305" alt="image" src="https://github.com/user-attachments/assets/1df18d11-fcbe-4a79-893f-0de051efd598">
 

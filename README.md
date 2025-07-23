@@ -5,7 +5,7 @@ Responsible for EMG data acquisition with BITalino, processing signals using MAT
 A dataset of electromyography (EMG) signals was collected at the Robotics and Cobotics Department at Euromediterranean University of Fes, Morocco. The dataset includes EMG recordings from 40 participants, capturing six distinct hand movements using the BITalino sensor. Each participant contributed data through a structured acquisition process, executing five repetitions of each movement, each lasting five seconds. Post-acquisition, rigorous signal processing techniques, such as filtering and rectification, were meticulously applied to render the dataset analytically reliable. The dataset facilitates a range of applications, including gesture recognition, movement classification, and predictive modeling. Moreover, it serves as a foundational resource for training and validating machine learning algorithms, particularly in the domain of EMG-based human-computer interaction.
 
 <p align="center">
-<img width="800" height="448" alt="image" src="https://github.com/user-attachments/assets/573eb220-6f7c-4b62-832d-c648e043348f" />
+<img width="600" height="448" alt="image" src="https://github.com/user-attachments/assets/573eb220-6f7c-4b62-832d-c648e043348f" />
 </p>
 
 ## data collection
